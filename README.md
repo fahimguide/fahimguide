@@ -1,5 +1,5 @@
 
-![Data Analysis and Data Science ](Data-Analyst-Do_Blog.jpeg height='40')
+![Data Analysis and Data Science ](Data-Analyst-Do_Blog.jpeg)
 
 ### Hi There 👋, I'm [Fahim Isaac](https://www.linkedin.com/in/fahim-isaac/)
 # Freelancing Data Analyst and Data Scientist 

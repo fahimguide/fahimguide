@@ -1,7 +1,7 @@
 
-![Data Analysis and Data Science ](Data-Analyst-Do_Blog.jpeg)
+![Data Analysis and Data Science ](Data-Analyst-Do_Blog.jpeg height='40')
 
-### Hi There 👋, I'm [Fahim Isaac](https://www.linkedin.com/in/fahim-isaac/ height='40')
+### Hi There 👋, I'm [Fahim Isaac](https://www.linkedin.com/in/fahim-isaac/)
 # Freelancing Data Analyst and Data Scientist 
 
 I am Fahim Isaac from Egypt and I do Data analysis. I love to learn new languages and frameworks like Python, Pandas, Matplotlib, Django, also visualization tools like the Tableau and Power BI I am a big fan of Data Science.

@@ -1,5 +1,5 @@
 
-![Data Analysis and Data Science ](https://www.canva.com/design/DAFHAjFPdzg/BrHeq93yx7wkJDMBTLzbrg/edit?utm_content=DAFHAjFPdzg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Data Analysis and Data Science ](Data-Analyst-Do_Blog1.png)
 
 ### Hi There 👋, I'm [Fahim Isaac](https://www.linkedin.com/in/fahim-isaac/)
 # Freelancing Data Analyst and Data Scientist 

@@ -2,7 +2,7 @@
 ![Data Analysis and Data Science ](https://media-exp2.licdn.com/dms/image/C4D16AQGBogQlF7sriw/profile-displaybackgroundimage-shrink_350_1400/0/1522770730415?e=1663804800&v=beta&t=RkYDIn9rfOkUbt8k0_k2yx5y5sAaVdxooaS_FuQrhuU)
 
 ### Hi There 👋, I'm [Fahim Isaac](https://www.linkedin.com/in/fahim-isaac/)
-# Freelancing Data Analysis and Data Science 
+# Freelancing Data Analyst and Data Scientist 
 
 I am Fahim Isaac from Egypt and I do Data analysis. I love to learn new languages and frameworks like Python, Pandas, Matplotlib, Django, also visualization tools like the Tableau and Power BI I am a big fan of Data Science.
 
